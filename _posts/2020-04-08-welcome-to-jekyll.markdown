@@ -3,7 +3,7 @@ layout: post
 title:  "First post"
 date:   2020-04-08 17:31:04 +0300
 categories: jekyll update
-draft: True
+draft: true
 ---
 
 ### hello world

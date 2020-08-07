@@ -12,4 +12,3 @@ I believe I still do not know the true value of work, since I never worked for m
 We all have our inefficiencies and perfection does not exist however the constant struggle is something that is inevitable and the more it is in your control the better. I have for some time got really convinced that peace is not separate from the struggle, we are at most peaceful when we struggle. We rest best when work hardest, beside it even the rest becomes a misery. 
 
 This is what I have learnt till now – to see that people are much deeper than what we generally perceive, and that constant work is the only peace.
-
