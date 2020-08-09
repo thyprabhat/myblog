@@ -18,4 +18,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll --->
 
 
-I am student at IIT Bombay, pursuing my major in Energy Science and Engineering at Department of Energy Science and Engineering.
+I am a student at IIT Bombay, pursuing my major in Energy Science and Engineering at Department of Energy Science and Engineering.
