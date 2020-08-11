@@ -25,7 +25,7 @@ not smart enough, no experience, wrong upbringing, don’t have the education, e
 <li> Constant internet connectivity is essential for my work.
 <li> I don’t have adequate internet connectivity.
 <li> I live in a small town.
-</ol.
+</ol>
 
 <strong>
 Be Scott — Write out the half-dozen small, seemingly inconsequential steps you can take every day that can make your life in a completely new and positive direction.
