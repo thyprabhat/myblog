@@ -10,6 +10,8 @@ Write out a few excuses you might be clinging to (e.g.,
 not smart enough, no experience, wrong upbringing, don’t have the education, etc.). Decide to make up in hard work and personal development to out-compete anyone—including your old self.
 </strong>
 
+
+
 <ol>
 <li> I got a bunch of excuses, some of which I think is still true to some degree, but a more profound sense indicates otherwise. I have to give it a try to see for myself.
 <li> I often say to myself I am not good at coding, but the fact is I did start coding early - like when I was in class 6 - and fairly decent at that time.
@@ -27,9 +29,13 @@ not smart enough, no experience, wrong upbringing, don’t have the education, e
 <li> I live in a small town.
 </ol>
 
+
+
 <strong>
 Be Scott — Write out the half-dozen small, seemingly inconsequential steps you can take every day that can make your life in a completely new and positive direction.
 </strong>
+
+
 
 <ol>
 <li> Workout for 20 minutes daily.
@@ -48,9 +54,13 @@ Be Scott — Write out the half-dozen small, seemingly inconsequential steps you
 <li> Learn to play the guitars for 20 minutes.
 </ol>
 
+
+
 <strong>
 Don’t be Brad—Write down the small, seemingly inconsequential actions you can stop doing that might be compounding your results downward.
 </strong>
+
+
 
 <ol>
 <li> I am putting small work for the next day for doing the whole work together in one go.
@@ -63,6 +73,8 @@ Don’t be Brad—Write down the small, seemingly inconsequential actions you ca
 </ol>
 
 
+
+
 <strong>
 List a few areas, skills, or outcomes where you have you been most successful in the past. Consider whether you could be taking those for granted and are not continuing to improve, and are therefore in jeopardy of having that complacency lead to future failure.
 </strong>
@@ -71,6 +83,8 @@ List a few areas, skills, or outcomes where you have you been most successful in
 <li> Motivating others.
 <li> Web page development.
 </ul>
+
+
 I don’t see much to write in this. I still need to acquire many skills.
 
 
