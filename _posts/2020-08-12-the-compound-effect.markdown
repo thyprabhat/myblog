@@ -13,6 +13,7 @@ not smart enough, no experience, wrong upbringing, don’t have the education, e
 
 
 <ol>
+
 <li> I got a bunch of excuses, some of which I think is still true to some degree, but a more profound sense indicates otherwise. I have to give it a try to see for myself.
 <li> I often say to myself I am not good at coding, but the fact is I did start coding early - like when I was in class 6 - and fairly decent at that time.
 <li> Another excuse that I give is that I am not good at extracting insights. 
@@ -27,6 +28,7 @@ not smart enough, no experience, wrong upbringing, don’t have the education, e
 <li> Constant internet connectivity is essential for my work.
 <li> I don’t have adequate internet connectivity.
 <li> I live in a small town.
+
 </ol>
 
 
