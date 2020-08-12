@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pandemic and semester exchange"
-date:   2020-08-12 02:40:04 +0530
+date:   2020-08-13 01:00:04 +0530
 categories: memoir
 ---
 I heard about the virus at around mid-February. Finland didn’t have any cases till that point, and the consensus was that the virus is not lethal. That time, period three was getting over. (Aalto University have much shorter course duration than IITB. Spring semester is taught into three periods, and each course generally ends in 1 period. However, a few courses could also spread over two periods, but it is infrequent.) This provides an excellent opportunity for semester exchange student where people could complete their classes in the first two periods. At the last period, they could go on a trip around Europe, which was our plan.
