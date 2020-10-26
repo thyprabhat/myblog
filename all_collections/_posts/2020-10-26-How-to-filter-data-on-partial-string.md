@@ -16,7 +16,7 @@ Use the library called <i>data.table</i>. It adds a function called *%like* whic
 
 ## Sample code
 
-```R
+```r
 
 install.packages("data.table")
 library("data.table")
