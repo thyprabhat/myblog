@@ -12,7 +12,7 @@ The problem statement here is, that we need to filter out the rows with a string
 
 ## Solution:
 
-Use the library called <i>data.table</i>. It adds a function called *%like* which helps to identify the part of string.
+Use the library called <i>data.table</i>. It adds a function called *%like%* which helps to identify the part of string.
 
 ## Sample code
 
