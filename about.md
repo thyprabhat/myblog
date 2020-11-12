@@ -9,4 +9,4 @@ short_bio: Hi this is Prabhat.
 I am a student at Department of Energy Science and Engineering at IITB.
 
 
-[My Github](http://github.com/prabhat496)
+[Contact me](https://forms.gle/w6faoHWdcKex1zXv6)
