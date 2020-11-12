@@ -44,31 +44,31 @@ A: I think I would start with this, lets see where I could go from here.\
 P: Don't worry, even if you hit your target with 50% accuracy, you have a chance to improve next day. But only thing is that you don't have time to lose. Set deadlines.\
 A: Ok, you are right. Let me set deadlines.\
 \
-DDP:	DDP report draft: 30th of Nov\
-	Algorithm for the DDP: 15th Nov\
-	Coding part finishes: 23rd of Nov\
-	Result compilation and validation: 27th of Nov\
-	In-depth presentation to Guide: 27th of Nov\
+DDP:	DDP report draft: 				30th of Nov\
+	Algorithm for the DDP: 				15th Nov\
+	Coding part finishes: 				23rd of Nov\
+	Result compilation and validation: 		27th of Nov\
+	In-depth presentation to Guide: 		27th of Nov\
 \
-Apping:	CV draft finishes: 14th of Nov\
-	CV review done: 16th of Nov\
-	Final thing ready: 16th of Nov\
-	SoP first draft: 15th Nov\
-	SoP final draft: 18th of Nov\
-	Initial sweep for universities : 13th of Nov\
+Apping:	CV draft finishes: 				14th of Nov\
+	CV review done: 				16th of Nov\
+	Final thing ready: 				16th of Nov\
+	SoP first draft: 				15th Nov\
+	SoP final draft: 				18th of Nov\
+	Initial sweep for universities : 		13th of Nov\
 	Comprehensive list for programs and deadlines : 15th of Nov\
-	LoRs: 20th of Nov\
-	Other required docs: 20th of Nov\
+	LoRs: 						20th of Nov\
+	Other required docs: 				20th of Nov\
 \
-Place:	Vectors: 12th Nov\
-	Set & Maps: 14th of Nov\
-	Algorithms: 16th of Nov\
-	Lambda and revision: 19th of Nov\
+Place:	Vectors: 					12th Nov\
+	Set & Maps: 					14th of Nov\
+	Algorithms: 					16th of Nov\
+	Lambda and revision: 				19th of Nov\
 	Leet code: Daily atleast 5 problems\
 	Leet code marathon: 21st of Nov - Total finish 100 problems\
-	Interview prepration material : 16th of Nov\
-	Interviews prep: 24th of Nov\
-	Company Prep: 25th of Nov\
+	Interview prepration material : 		16th of Nov\
+	Interviews prep: 				24th of Nov\
+	Company Prep: 					25th of Nov\
 \
 P: Ok, looks very promising. Only thing remaining is to work like hell in this month. Let's call the hell November. Make a proper scehdule around these deadlines and put it on the google calendar.\
 A: Ok, will send you my schedule. The preference is something like, DDP = Apping > Placements. It would also reflect in my schedule.\
